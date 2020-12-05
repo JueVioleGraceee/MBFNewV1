@@ -6,17 +6,17 @@ from time import sleep
 
 from concurrent.futures import ThreadPoolExecutor
 
-B = Fore.BLUE
+B = BLUE
 
-W = Fore.WHITE
+W = WHITE
 
-C = Fore.CYAN
+C = CYAN
 
-R = Fore.RED
+R = RED
 
-G = Fore.GREEN
+G = GREEN
 
-Y = Fore.YELLOW
+Y = YELLOW
 
 id=[]
 
