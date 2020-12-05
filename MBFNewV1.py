@@ -6,8 +6,6 @@ from time import sleep
 
 from concurrent.futures import ThreadPoolExecutor
 
-from colorama import init, Fore, Back
-
 B = Fore.BLUE
 
 W = Fore.WHITE
