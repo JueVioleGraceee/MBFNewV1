@@ -6,18 +6,6 @@ from time import sleep
 
 from concurrent.futures import ThreadPoolExecutor
 
-B = BLUE
-
-W = WHITE
-
-C = CYAN
-
-R = RED
-
-G = GREEN
-
-Y = YELLOW
-
 id=[]
 
 count=0
