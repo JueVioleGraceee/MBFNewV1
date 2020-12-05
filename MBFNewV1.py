@@ -1,9 +1,3 @@
-# Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
-#Pembuatan 05:12:2020
-
-#Engkau Bilang Ini Recod Punya Orang. Ku Report Semu entr fb mu ANJENG
-
 import os,sys,time,requests,json,re
 
 from bs4 import BeautifulSoup as parser
